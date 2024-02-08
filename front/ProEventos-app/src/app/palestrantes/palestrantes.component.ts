@@ -1,15 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-palestrantes',
+  standalone: true,
+  imports: [CommonModule],
   templateUrl: './palestrantes.component.html',
-  styleUrls: ['./palestrantes.component.scss']
+  styleUrl: './palestrantes.component.scss'
 })
-export class PalestrantesComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
+export class PalestrantesComponent {
 
 }
