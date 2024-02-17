@@ -1,29 +1,24 @@
-import { CommonModule } from '@angular/common';
-import { HttpClient } from '@angular/common/http';
-import { Component } from '@angular/core';
-import { error } from 'console';
-
+import { Component, OnInit } from '@angular/core';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 @Component({
   selector: 'app-eventos',
-  standalone: true,
-  imports: [CommonModule],
   templateUrl: './eventos.component.html',
-  styleUrl: './eventos.component.scss'
+  styleUrls: ['./eventos.component.scss']
 })
-export class EventosComponent {
-    public eventos: any;
+export class EventosComponent implements OnInit {
+  public eventos: any;
 
-    constructor(private http: HttpClient) {}
+  constructor( private http: HttpClient) {}
 
-    ngOnInit(): void {
-      this.getEventos();
-    }
+  ngOnInit(): void {
+    this.getEventos();
+  }
 
-    public getEventos(): void {
-      this.http.get("https://localhost:5001/api/eventos").subscribe(
-        response => this.eventos = response,
-        error =>console.log(error)
-      )
-      
-    }
+  public getEventos(): void {
+    this.http.get("https://localhost:5001/api/eventos").subscribe(
+      response => this.eventos = response,
+      error =>console.log(error)
+    )
+    
+  }
 }

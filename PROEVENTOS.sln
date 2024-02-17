@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back", "back", "{9054311B-EDBE-4F1F-A2FA-9FF2AF801C60}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back", "back", "{2930B13A-C6BE-4257-BBC2-F1E7C02FCEDF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{174BC822-8613-47A8-9BA1-844ED87FF631}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EEB8ADED-7CB5-409F-95FB-C516F66548A0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.API", "back\src\ProEventos.API\ProEventos.API.csproj", "{B6C8F751-5911-4A07-BCFE-E48756770BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProEventos.API", "back\src\ProEventos.API\ProEventos.API.csproj", "{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,19 +15,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6C8F751-5911-4A07-BCFE-E48756770BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6C8F751-5911-4A07-BCFE-E48756770BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6C8F751-5911-4A07-BCFE-E48756770BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6C8F751-5911-4A07-BCFE-E48756770BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{174BC822-8613-47A8-9BA1-844ED87FF631} = {9054311B-EDBE-4F1F-A2FA-9FF2AF801C60}
-		{B6C8F751-5911-4A07-BCFE-E48756770BEC} = {174BC822-8613-47A8-9BA1-844ED87FF631}
+		{EEB8ADED-7CB5-409F-95FB-C516F66548A0} = {2930B13A-C6BE-4257-BBC2-F1E7C02FCEDF}
+		{BFAE8541-1A4F-46AD-BC47-B9E0AB0A2069} = {EEB8ADED-7CB5-409F-95FB-C516F66548A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6EE24172-55E7-43AB-BF7C-6CBC64A13C5D}
+		SolutionGuid = {ED19E351-DB0B-40E0-9039-7030D3DDF941}
 	EndGlobalSection
 EndGlobal
