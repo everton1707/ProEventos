@@ -55,3 +55,13 @@ C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\De
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
