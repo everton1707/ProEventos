@@ -65,3 +65,7 @@ C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\De
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
 C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\OneDrive\Imagens\dotnet\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

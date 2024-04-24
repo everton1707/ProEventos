@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nsyMy0uEXkfL1lNs1728MqmkTKQspRcSuN2UsMg5Ga3k25H0UC7Y+gBh/RghK3fFKwm3KOhywRm63luHBB+lgw==",
+  "dgSpecHash": "O2JYbeiKTW5HXAFSXVDCbMWGVp1x5O82So2OpBVx6bbfX4SGws0c8NSOjPQXqvckfTT/saUWadJ5SGJj2QFNrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\evert\\OneDrive\\Imagens\\dotnet\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evert\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.3\\microsoft.aspnetcore.jsonpatch.5.0.3.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.3\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.3.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.3\\microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -33,6 +35,8 @@
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\evert\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\npgsql\\3.1.9\\npgsql.3.1.9.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\1.1.0\\npgsql.entityframeworkcore.postgresql.1.1.0.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql.design\\1.1.0\\npgsql.entityframeworkcore.postgresql.design.1.1.0.nupkg.sha512",
